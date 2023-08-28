@@ -1,0 +1,36 @@
+{
+  "adsModels": [
+    {
+      "adUnits": [
+        "appOpen",
+        "smallNative"
+      ],
+      "name": "admob",
+      "banner": "ca-app-pub-2299291161271404/6221449604",
+      "interstitial": "ca-app-pub-2299291161271404/5020048577",
+      "splash": "ca-app-pub-2299291161271404/4244392642",
+      "appOpen": "ca-app-pub-2299291161271404/6403652128",
+      "smallNative": "ca-app-pub-2299291161271404/9305147637",
+      "mediumNative": "",
+      "manualNative": "",
+      "reward": "ca-app-pub-2299291161271404/6029877919"
+    },
+    {
+      "adUnits": [
+        "appOpen",
+        "smallNative"
+      ],
+      "name": "applovin",
+      "banner": "022cdb778f70ef36",
+      "interstitial": "d63632192e287d51",
+      "splash": "",
+      "appOpen": "5ae5b4d70fc2af30",
+      "smallNative": "7e40f628b0054d99",
+      "mediumNative": "",
+      "manualNative": "",
+      "reward": "c6892f56db609201"
+    }
+  ],
+  "piapi": "123",
+  "adssubkey": "aHR0cHM6Ly9tdXNpY3BsYXllci5saWZl1"
+}
