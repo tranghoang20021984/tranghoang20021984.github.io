@@ -4,7 +4,8 @@
       "adUnits": [
         "appOpen",
         "smallNative",
-        "banner"
+        "interstitial",
+        "splash"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/6221449604",
@@ -20,7 +21,7 @@
       "adUnits": [
         "appOpen",
         "smallNative",
-        "banner"
+        "interstitial"
       ],
       "name": "applovin",
       "banner": "022cdb778f70ef36",
@@ -34,5 +35,5 @@
     }
   ],
   "piapi": "123",
-  "adssubkey": "aHR0cHM6Ly9tdXNpY3BsYXllci5saWZl1"
+  "adssubkey": "aHR0cHM6Ly9tdXNpY3BsYXllci5saWZl"
 }
